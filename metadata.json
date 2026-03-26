@@ -1,0 +1,5 @@
+{
+  "name": "Onboarding Notifier",
+  "description": "신규 입사자 입사 전(D-15, D-10, D-5) 자동 이메일 및 카카오톡 알림 발송 시스템",
+  "requestFramePermissions": []
+}
